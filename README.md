@@ -47,12 +47,7 @@ The Gradio interface is defined in the `captioner` function. It takes an image a
 - [Hugging Face](https://huggingface.co/) for providing the powerful API used in this project.
 - [Gradio](https://www.gradio.app/) for simplifying the creation of interactive interfaces.
 
-# Contributing
 
-Feel free to contribute to this project by opening issues or creating pull requests. Your feedback and contributions are highly appreciated.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 ---
 title: Gradio Image Caption
 emoji: 🦀
