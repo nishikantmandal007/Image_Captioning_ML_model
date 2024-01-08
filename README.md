@@ -10,21 +10,21 @@ Before running the code, make sure you have the necessary dependencies installed
 
 ```bash
 pip install -r requirements.txt
-
+```
 # Environment Variables
 
 To use the Hugging Face API, you need to set up your Hugging Face API key. Create a `.env` file in the root of your project and add your API key:
 
 ```bash
 HF_API_KEY=your_hugging_face_api_key
-
+  ```
 # Running the Application
 
 Run the application using the following command:
 
 ```bash
 python app.py
-
+```
 # Components
 
 ## 1. Hugging Face API Integration
