@@ -10,4 +10,4 @@ pinned: false
 license: mit
 ---
 
-Check out the app at (https://huggingface.co/spaces/nishikantmandal007/gradio-image-caption)https://huggingface.co/spaces/nishikantmandal007/gradio-image-caption
+Check out the app at https://huggingface.co/spaces/nishikantmandal007/gradio-image-caption
