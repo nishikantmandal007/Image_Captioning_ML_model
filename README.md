@@ -1,6 +1,7 @@
 # Image Captioning with Hugging Face API and Gradio
 
-This repository contains a simple yet powerful Image Captioning application using the Hugging Face API for image-to-text conversion and Gradio for creating an interactive and user-friendly interface. With this application, you can upload an image, and the model will generate a caption for it.
+This repository contains a simple yet powerful Image Captioning application using the Hugging Face API for image-to-text conversion and Gradio for creating an interactive and user-friendly interface. The application leverages the **BLIP (Base Language Image Pre-training)** model for accurate image caption generation.
+
 
 ## Getting Started
 
