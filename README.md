@@ -47,6 +47,9 @@ The Gradio interface is defined in the `captioner` function. It takes an image a
 - [Hugging Face](https://huggingface.co/) for providing the powerful API used in this project.
 - [Gradio](https://www.gradio.app/) for simplifying the creation of interactive interfaces.
 
-`title: Gradio Image Caption` `emoji: 🦀` `colorFrom: red` `colorTo: indigo` `sdk: gradio` `sdk_version: 3.39.0` `app_file: app.py` `pinned: false` `license: mit`
+| title | emoji | colorFrom | colorTo | sdk | sdk_version | app_file | pinned | license |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gradio Image Caption | 🦀 | red | indigo | gradio | 3.39.0 | app.py | false | mit |
+
 
 Check out the app at https://huggingface.co/spaces/nishikantmandal007/gradio-image-caption
