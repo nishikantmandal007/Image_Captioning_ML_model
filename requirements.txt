@@ -1,0 +1,6 @@
+requires.io
+pillow
+pybase64
+requests
+jsons
+python-dotenv
