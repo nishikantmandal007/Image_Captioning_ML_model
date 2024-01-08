@@ -1,18 +1,3 @@
-| Property         | Value               |
-| -----------------| ---------------------|
-| title            | Gradio Image Caption|
-| emoji            | 🦀                  |
-| colorFrom        | red                 |
-| colorTo          | indigo              |
-| sdk              | gradio              |
-| sdk_version      | 3.39.0              |
-| app_file         | app.py              |
-| pinned           | false               |
-| license          | mit                 |
-
-
-
-
 # Image Captioning with Hugging Face API and Gradio
 
 This repository contains a simple yet powerful Image Captioning application using the Hugging Face API for image-to-text conversion and Gradio for creating an interactive and user-friendly interface. With this application, you can upload an image, and the model will generate a caption for it.
@@ -62,5 +47,6 @@ The Gradio interface is defined in the `captioner` function. It takes an image a
 - [Hugging Face](https://huggingface.co/) for providing the powerful API used in this project.
 - [Gradio](https://www.gradio.app/) for simplifying the creation of interactive interfaces.
 
+`title: Gradio Image Caption` `emoji: 🦀` `colorFrom: red` `colorTo: indigo` `sdk: gradio` `sdk_version: 3.39.0` `app_file: app.py` `pinned: false` `license: mit`
 
 Check out the app at https://huggingface.co/spaces/nishikantmandal007/gradio-image-caption
